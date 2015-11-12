@@ -48,7 +48,7 @@ server.listen(server_port, server_ip_address, function(){
     // This is the callback function which triggered when server is successfully listening (active).
     console.re.log("The server has started.");
     console.re.log("Your server ip address is " + server_ip_address );
-    console.re.log("Your server port is " + server_port + );
+    console.re.log("Your server port is " + server_port );
     
     
     // ASSIGNMENT
